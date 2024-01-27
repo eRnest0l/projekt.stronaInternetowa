@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+
+.hederOpis {
+  display: inline-block;
+  width: 100%;
+  background-color: darkgreen;
+}
+
+.name {
+  text-align: center;
+  color: bisque;
+  margin: 20px;
+  font-size: 4em;
+}
+
+.link a {
+  display: block;
+  padding: 30px;
+  text-align: center;
+  color: lemonchiffon;
+  text-decoration: none;
+
+}
+
+a:link {
+  color: lemonchiffon;
+}
+
+a:hover {
+  background-color: bisque;
+  color: darkgreen;
+}
